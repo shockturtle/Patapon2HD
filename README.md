@@ -15,12 +15,24 @@ Common JP Game ID: UCJS10089
 
 
 
+BIG Thank you to
+
+owocek (Motivation)
+
+Xandis/Gat235 (Every single bird and javelin)
+
+Iracy (Materials and other items)
+
+MitsukiHarune (Various symbols and high-quality resources)
+
+
+
 Special Thanks to
 
-WallSoGB
+WallSoGB (Leader of the Patapon3Textures project)
 
-efonte
+efonte (Upscaling god)
 
-MitsukiHarune
 
-owocek
+
+
