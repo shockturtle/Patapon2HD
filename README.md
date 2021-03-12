@@ -25,13 +25,12 @@ Iracy (Materials and other items)
 
 MitsukiHarune (Various symbols and high-quality resources)
 
+efonte (Upscaling god)
 
 
 Special Thanks to
 
 WallSoGB (Leader of the Patapon3Textures project)
-
-efonte (Upscaling god)
 
 
 
