@@ -304,6 +304,9 @@ class Upscale:
                 model_1 = torch.load(interps[0].split("@")[0])
                 model_2 = torch.load(interps[1].split("@")[0])
                 state_dict = OrderedDict()
+                f = open("demofile2.txt", "a")
+                f.write(repr(model_2))
+                f.close()
                 for k, v_1 in model_1.items():
                     v_2 = model_2[k]
                     state_dict[k] = (int(interps[0].split("@")[1]) / 100) * v_1 + (
