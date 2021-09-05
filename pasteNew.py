@@ -14,7 +14,7 @@ if len(toAddLines) == 0:
     exit(0)
 
 for file in files:
-    shutil.move(file, "textures/ai")
+    shutil.move(file, "textures/ai/"+os.path.basename(file))
 
 
 TEX_INI = "textures.ini"
