@@ -2,7 +2,7 @@ import os
 import glob
 import shutil
 
-files = glob.glob('new/*.png')
+files = glob.glob('add/*.png')
 
 toAddLines = [
     file.removesuffix(".png") + " = textures/ai/" + file for file in
@@ -34,4 +34,4 @@ if len(finalLines) == 0:
 with open(TEX_INI, "a") as texIniFile:
     texIniFile.write("\n" + "\n".join(finalLines))
 
-print("Added "+len(finalLines)+" lines")
+print("Added "+str(len(finalLines))+" lines")
