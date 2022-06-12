@@ -43,7 +43,7 @@ BIG Thank you to
 
 - Iracy (Materials and other items)
 
-- MitsukiHarune (Various symbols and high-quality resources)
+- RinCasi (Various symbols and high-quality resources)
 
 - [efonte](https://github.com/efonte) (AI Upscaling)
 
