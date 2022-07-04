@@ -45,7 +45,7 @@ BIG Thank you to
 
 - Iracy (Materials and other items)
 
-- RinCasi (Various symbols and high-quality resources)
+- [RinCasi](https://twitter.com/I26mc) (Various symbols and high-quality resources)
 
 - [efonte](https://github.com/efonte) (AI Upscaling)
 
