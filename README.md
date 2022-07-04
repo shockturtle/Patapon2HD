@@ -22,7 +22,8 @@ All textures are done entirely by me unless comments in textures.ini state other
 
 ## 🎈 Usage <a name="usage"></a>
 
-To install, enable Texture Replacement in PPSSPP dev menu and put both the textures folder and textures.ini files in `PPSSPP/memstick/PSP/TEXTURES/%GAME_ID%`
+To install, enable Texture Replacement in PPSSPP dev menu (Settings->Tools->Developer Tools).
+Put both the textures folder and textures.ini files in `PPSSPP/memstick/PSP/TEXTURES/%GAME_ID%`
 
 If the textures folder doesnt exist, make it.
 
