@@ -1,0 +1,2 @@
+py pasteNew.py
+PAUSE

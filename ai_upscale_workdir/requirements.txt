@@ -1,0 +1,5 @@
+opencv_python
+numpy
+torch
+rich
+typer
