@@ -20,6 +20,8 @@ Side Project for HD Patapon 2 textures.
 
 All textures are done entirely by me unless comments in textures.ini state otherwise.
 
+515 textures out of 1993 are implemented so far.
+
 ## 🎈 Usage <a name="usage"></a>
 
 To install, enable Texture Replacement in PPSSPP dev menu (Settings->Tools->Developer Tools).
